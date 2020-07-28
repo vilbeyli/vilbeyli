@@ -8,8 +8,9 @@ In computing, I'm into real-time applications, CPU & GPU performance optimizatio
 
 ----
 <p align="right">
-  <a href="https://github.com/anuraghazra/github-readme-stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="right" alt="Volkan's github stats" src="https://github-readme-stats.vercel.app/api?username=vilbeyli&theme=tokyonight&show_icons=true" />
+  </a>
 </p>
 
 🔭 I also enjoy building stuff 
