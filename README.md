@@ -7,6 +7,7 @@ In general, I'm into science, technology, music, games and sometimes traveling a
 In computing, I'm into real-time applications, CPU & GPU performance optimizations, realistic rendering and hardware architecture.
 
 ----
+
 <p align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="right" alt="Volkan's github stats" src="https://github-readme-stats.vercel.app/api?username=vilbeyli&theme=tokyonight&show_icons=true" />
@@ -18,8 +19,13 @@ In computing, I'm into real-time applications, CPU & GPU performance optimizatio
   - Currently working on a [DX12 Rendering Engine](https://github.com/vilbeyli/VQE/) with a focus on multi-threaded architecture
   - Previously built a [DX11 Physically-Based Renderer](https://github.com/vilbeyli/VQEngine/)
 
+<br/>
+<br/>
 
-💬 I've recently started writing on my [blog](https://vilbeyli.github.io/) again - I try to keep it technical.
+---
+
+
+💬 I've recently started writing on my [technical blog](https://vilbeyli.github.io/) again.
 
 📫 You can reach out via Email (See Profile) or [Twitter](https://twitter.com/Varaquilex)
 
