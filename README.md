@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="right">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="430" align="right" alt="Volkan's github stats" src="https://github-readme-stats.vercel.app/api?username=vilbeyli&theme=tokyonight&show_icons=true" />
+  </a>
+</p>
+
 Hello! I'm Volkan, a software engineer specializing in computer graphics, parallel & high performance computing with some video game industry experience.
 
 In general, I'm into science, technology, music, games and sometimes traveling around.
@@ -8,11 +14,6 @@ In computing, I'm into real-time applications, CPU & GPU performance optimizatio
 
 ----
 
-<p align="right">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="480" align="right" alt="Volkan's github stats" src="https://github-readme-stats.vercel.app/api?username=vilbeyli&theme=tokyonight&show_icons=true" />
-  </a>
-</p>
 
 🔭 I also enjoy building stuff 
   
