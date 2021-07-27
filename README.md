@@ -6,21 +6,18 @@
   </a>
 </p>
 
-Hello! I'm Volkan, a software engineer specializing in computer graphics, parallel & high performance computing with some video game industry experience.
+I'm Volkan, a software engineer specializing in computer graphics, parallel & high performance computing with some video game industry experience.
 
-In general, I'm into science, technology, music, games and sometimes traveling around.
+I'm into science, technology, music, games and traveling around.
 
-In computing, I'm into real-time applications, CPU & GPU performance optimizations, realistic rendering and hardware architecture.
+In computing, I'm into real-time and high-performance applications, CPU & GPU performance optimizations, realistic rendering and hardware architecture.
 
 ----
 
 
-🔭 I also enjoy building stuff 
-  
-  - Currently working on a [DX12 Rendering Engine](https://github.com/vilbeyli/VQE/) with a focus on multi-threaded architecture
-  - Previously built a [DX11 Physically-Based Renderer](https://github.com/vilbeyli/VQEngine/)
+🔭 I also enjoy building stuff, currently working on [VQEngine, a real-time multi-threaded DirectX12 Renderer with HDR display support](https://github.com/vilbeyli/VQEngine/)
 
-💬 I've recently started writing on my [technical blog](https://vilbeyli.github.io/) again.
+💬 Albeit rarely, I do post about programming and graphics on my [technical blog](https://vilbeyli.github.io/).
 
 📫 You can reach out via Email (See Profile) or [Twitter](https://twitter.com/Varaquilex)
 
