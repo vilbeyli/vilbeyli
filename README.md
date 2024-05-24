@@ -8,7 +8,7 @@
 
 I'm Volkan, a software engineer specializing in computer graphics, parallel & high performance computing with some video game industry experience.
 
-I'm into science, technology, music, games and traveling around.
+I'm into science, technology, math, music, games, finance, investing and traveling around.
 
 In computing, I'm into real-time and high-performance applications, CPU & GPU performance optimizations, realistic rendering and hardware architecture.
 
@@ -19,7 +19,7 @@ In computing, I'm into real-time and high-performance applications, CPU & GPU pe
 
 💬 Albeit rarely, I do post about programming and graphics on my [technical blog](https://vilbeyli.github.io/).
 
-📫 You can reach out via Email (See Profile) or [Twitter](https://twitter.com/Varaquilex)
+📫 You can reach out via Email (See Profile) or [Twitter/X](https://twitter.com/Varaquilex)
 
 Cheers!
 
